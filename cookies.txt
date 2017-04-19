@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bhatdental.com	TRUE	/	FALSE	1999999999	PHPSESSID	4f94165ee89273167e48b9d54731371b
+www.dentalnspa.com	TRUE	/	FALSE	1999999999	symfony	mljlekv6ngn9jd0fgdf8kbbrb4
+

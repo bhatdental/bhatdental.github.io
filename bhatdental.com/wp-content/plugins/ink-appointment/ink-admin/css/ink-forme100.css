@@ -1,0 +1,104 @@
+.ink-container{
+    /*margin-bottom:20px;*/
+}
+.ink-form{
+    font-family:"Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
+    /* margin:20px 14px 0 5px;*/
+}
+.ink-form ul {
+    margin: 0;
+}
+.ink-form li {
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 1% 7px 1%;
+    clear: both;
+    background-color: transparent;
+    position: relative;
+    -webkit-transition: background-color 350ms ease-out;
+    -moz-transition: background-color 350ms ease-out;
+    -o-transition: background-color 350ms ease-out;
+    transition: background-color 350ms ease-out;
+}
+.ink-info h2 {
+    font-weight: normal;
+    padding: 4px 1% 7px 1%;
+}
+input.inktext, textarea.inktext{
+    border-top: 1px solid #7c7c7c;
+    border-left: 1px solid #c3c3c3;
+    border-right: 1px solid #c3c3c3;
+    border-bottom: 1px solid #ddd;
+    background: #fff repeat-x top;
+    background-color:rgb(255, 255, 255);
+    color:#aaaeb9;
+}
+input.inktext{
+    height:20px;
+}
+select.inktext{
+    width: 125px;
+    height:25px;
+    color:#aaaeb9;
+    padding-left: 5px;
+}
+input.inklarge{
+    max-width: 100%;
+    padding-left: 5px;
+}
+textarea.inklarge {
+    max-width: 70%;
+    padding-left: 5px;
+}
+input.inktext:focus, textarea.inktext:focus{
+    background-color:rgb(243, 243, 243);
+    border:1px solid rgb(211, 172, 16);
+}
+.captcha_error{ color:red; }
+
+.recaptcha_panel.inkapt{
+    color:#fff;
+    margin: 5px 20px 5px 20px;
+}
+
+/*
+Google recaptcha Style 
+====================================*/
+.recaptcha_panel.inkapt div#recaptcha_image {
+    margin-bottom:15px;
+}
+.recaptcha_panel.inkapt img#recaptcha_challenge_image {
+    margin-left: 4%;
+    /*width: 94%;*/
+
+}
+.recaptcha_panel.inkapt div.get_captcha a{
+    color:#fff !important;
+    margin-left:4%;
+}
+
+@media only screen and (max-width: 1140px) and (min-width: 960px){
+    .recaptcha_panel.inkapt input#recaptcha_response_field {
+        width: 200px !important;
+        padding-left: 65px !important;
+        margin-left: -20px !important;
+    }
+
+    .recaptcha_panel.inkapt img#recaptcha_challenge_image {
+        margin-left: 5%;
+        width: 75%;
+    }
+
+}
+
+@media only screen and (max-width: 960px) and (min-width: 767px){
+    .recaptcha_panel.inkapt input#recaptcha_response_field {
+        width: 200px !important;
+        padding-left: 65px !important;
+        margin-left: -20px !important;
+    }
+    .recaptcha_panel.inkapt img#recaptcha_challenge_image {
+        margin-left: 5%;
+        width: 75%;
+    }
+}

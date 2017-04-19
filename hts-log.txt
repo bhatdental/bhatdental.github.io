@@ -1,0 +1,325 @@
+HTTrack3.49-1+htsswf+htsjava launched on Thu, 06 Apr 2017 22:27:12 at bhatdental.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" bhatdental.com -O1 "C:\Temp\a1\bhatdental" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:27:15	Warning: 	Note: due to bhatdental.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:28:28	Error: 	"Method Not Allowed" (405) at link bhatdental.com/xmlrpc.php (from bhatdental.com/)
+22:29:10	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/lib/leads_form/js/ lead_ajax.js?ver=4.7.2 (from bhatdental.com/)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/images/bg.png (from bhatdental.com/wp-content/themes/appointwaytheme/style.css)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/images/index-line.png (from bhatdental.com/wp-content/themes/appointwaytheme/style.css)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/images/replybg.png (from bhatdental.com/wp-content/themes/appointwaytheme/style.css)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/images/view_photo.png (from bhatdental.com/wp-content/themes/appointwaytheme/style.css)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/images/footeripadapp-submit-bg-960.png (from bhatdental.com/wp-content/themes/appointwaytheme/style.css)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/themes/appointwaytheme/css/images/codebg.jpg (from bhatdental.com/wp-content/themes/appointwaytheme/css/shortcode.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/animated-overlay.gif (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_flat_75_ffffff_40x100.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_glass_75_e6e6e6_1x400.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_glass_75_dadada_1x400.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_glass_65_ffffff_1x400.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_glass_55_fbf9ee_1x400.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_glass_95_fef1ec_1x400.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-icons_888888_256x240.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-icons_2e83ff_256x240.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-icons_cd0a0a_256x240.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Error: 	"Not Found" (404) at link bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/images/ui-bg_flat_0_aaaaaa_40x100.png (from bhatdental.com/wp-content/plugins/ink-appointment/ink-admin/js/cal-front/jquery-ui.css?ver=4.7.2)
+22:31:53	Warning: 	Moved Permanently for bhatdental.com/?p=6
+22:31:53	Warning: 	File has moved from bhatdental.com/?p=6 to http://bhatdental.com/services/
+22:31:53	Error: 	"Error when decompressing" (-1) at link bhatdental.com/services/. (from bhatdental.com/services/)
+22:32:01	Warning: 	Moved Permanently for bhatdental.com/?p=255
+22:32:01	Warning: 	File has moved from bhatdental.com/?p=255 to http://bhatdental.com/preventive-care/
+22:32:01	Error: 	"Error when decompressing" (-1) at link bhatdental.com/preventive-care/. (from bhatdental.com/preventive-care/)
+22:32:30	Warning: 	Moved Permanently for bhatdental.com/?p=258
+22:32:30	Warning: 	File has moved from bhatdental.com/?p=258 to http://bhatdental.com/education-centre/
+22:32:30	Error: 	"Error when decompressing" (-1) at link bhatdental.com/education-centre/. (from bhatdental.com/education-centre/)
+22:32:54	Warning: 	Moved Permanently for bhatdental.com/?p=9
+22:32:54	Warning: 	File has moved from bhatdental.com/?p=9 to http://bhatdental.com/gallery/
+22:32:54	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/. (from bhatdental.com/gallery/)
+22:32:54	Warning: 	Moved Permanently for bhatdental.com/?p=419
+22:32:54	Warning: 	File has moved from bhatdental.com/?p=419 to http://bhatdental.com/patient-staff/
+22:32:55	Error: 	"Error when decompressing" (-1) at link bhatdental.com/patient-staff/. (from bhatdental.com/patient-staff/)
+22:32:55	Warning: 	Moved Permanently for bhatdental.com/?p=421
+22:32:55	Warning: 	File has moved from bhatdental.com/?p=421 to http://bhatdental.com/treatment-pictures/
+22:32:55	Error: 	"Error when decompressing" (-1) at link bhatdental.com/treatment-pictures/. (from bhatdental.com/treatment-pictures/)
+22:32:55	Warning: 	Moved Permanently for bhatdental.com/?p=19
+22:32:55	Warning: 	File has moved from bhatdental.com/?p=19 to http://bhatdental.com/locations-hours/
+22:32:55	Warning: 	Moved Permanently for bhatdental.com/?p=21
+22:32:55	Warning: 	File has moved from bhatdental.com/?p=21 to http://bhatdental.com/make-appointment/
+22:32:55	Error: 	"Error when decompressing" (-1) at link bhatdental.com/make-appointment/. (from bhatdental.com/make-appointment/)
+22:32:55	Warning: 	Moved Permanently for bhatdental.com/?p=333
+22:32:55	Warning: 	File has moved from bhatdental.com/?p=333 to http://bhatdental.com/post-appointment-survey/
+22:32:55	Error: 	"Error when decompressing" (-1) at link bhatdental.com/post-appointment-survey/. (from bhatdental.com/post-appointment-survey/)
+22:32:55	Warning: 	Moved Permanently for bhatdental.com/?p=334
+22:32:55	Warning: 	File has moved from bhatdental.com/?p=334 to http://bhatdental.com/refer-a-friend/
+22:32:55	Error: 	"Error when decompressing" (-1) at link bhatdental.com/refer-a-friend/. (from bhatdental.com/refer-a-friend/)
+22:33:26	Warning: 	Moved Permanently for bhatdental.com/?p=88
+22:33:26	Warning: 	File has moved from bhatdental.com/?p=88 to http://bhatdental.com/bhat-dental-associates-motto/
+22:33:26	Warning: 	Moved Permanently for bhatdental.com/?p=63
+22:33:26	Warning: 	File has moved from bhatdental.com/?p=63 to http://bhatdental.com/team/
+22:33:26	Warning: 	Moved Permanently for bhatdental.com/?p=122
+22:33:26	Warning: 	File has moved from bhatdental.com/?p=122 to http://bhatdental.com/our-facilities/
+22:33:26	Error: 	"Error when decompressing" (-1) at link bhatdental.com/our-facilities/. (from bhatdental.com/our-facilities/)
+22:33:26	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=54
+22:33:26	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=54 to http://bhatdental.com/gallery/s5/
+22:33:29	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=53
+22:33:29	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=53 to http://bhatdental.com/gallery/s4/
+22:33:30	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=52
+22:33:30	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=52 to http://bhatdental.com/gallery/s3/
+22:33:31	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=51
+22:33:31	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=51 to http://bhatdental.com/gallery/s2/
+22:33:31	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=50
+22:33:31	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=50 to http://bhatdental.com/gallery/s1/
+22:33:32	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=48
+22:33:32	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=48 to http://bhatdental.com/gallery/4-2/
+22:33:33	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=47
+22:33:33	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=47 to http://bhatdental.com/gallery/3-2/
+22:33:34	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=46
+22:33:34	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=46 to http://bhatdental.com/gallery/2-2/
+22:33:34	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=45
+22:33:34	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=45 to http://bhatdental.com/gallery/1-2/
+22:33:35	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=49
+22:33:35	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=49 to http://bhatdental.com/gallery/5-2/
+22:33:36	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=579
+22:33:36	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=579 to http://bhatdental.com/img_2090/
+22:33:36	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=580
+22:33:36	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=580 to http://bhatdental.com/img_2092/
+22:33:36	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=581
+22:33:36	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=581 to http://bhatdental.com/img_2105/
+22:33:37	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=582
+22:33:37	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=582 to http://bhatdental.com/img_2111/
+22:33:38	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=583
+22:33:38	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=583 to http://bhatdental.com/img_2112/
+22:33:38	Warning: 	Moved Permanently for bhatdental.com/our-facilities/?attachment_id=584
+22:33:38	Warning: 	File has moved from bhatdental.com/our-facilities/?attachment_id=584 to http://bhatdental.com/img_2114/
+22:33:38	Warning: 	Moved Permanently for bhatdental.com/?p=101
+22:33:38	Warning: 	File has moved from bhatdental.com/?p=101 to http://bhatdental.com/testimonials/
+22:33:38	Error: 	"Not Found" (404) at link www.dentalnspa.com/assets/uploads/images/testimonials.png (from bhatdental.com/testimonials/)
+22:33:38	Warning: 	Moved Permanently for bhatdental.com/?p=129
+22:33:38	Warning: 	File has moved from bhatdental.com/?p=129 to http://bhatdental.com/health-links/
+22:33:38	Warning: 	Moved Permanently for bhatdental.com/?p=134
+22:33:38	Warning: 	File has moved from bhatdental.com/?p=134 to http://bhatdental.com/latest-updates-offers/
+22:33:38	Error: 	"Error when decompressing" (-1) at link bhatdental.com/latest-updates-offers/. (from bhatdental.com/latest-updates-offers/)
+22:33:38	Warning: 	Moved Permanently for bhatdental.com/?p=288
+22:33:38	Warning: 	File has moved from bhatdental.com/?p=288 to http://bhatdental.com/preventive-care-instruction/
+22:33:39	Error: 	"Error when decompressing" (-1) at link bhatdental.com/preventive-care-instruction/. (from bhatdental.com/preventive-care-instruction/)
+22:33:40	Warning: 	Moved Permanently for bhatdental.com/?p=295
+22:33:40	Warning: 	File has moved from bhatdental.com/?p=295 to http://bhatdental.com/brushing-and-flossing/
+22:33:40	Error: 	"Error when decompressing" (-1) at link bhatdental.com/brushing-and-flossing/. (from bhatdental.com/brushing-and-flossing/)
+22:33:40	Warning: 	Moved Permanently for bhatdental.com/?p=301
+22:33:40	Warning: 	File has moved from bhatdental.com/?p=301 to http://bhatdental.com/fluoride/
+22:33:40	Error: 	"Error when decompressing" (-1) at link bhatdental.com/fluoride/. (from bhatdental.com/fluoride/)
+22:33:40	Warning: 	Moved Permanently for bhatdental.com/?p=304
+22:33:40	Warning: 	File has moved from bhatdental.com/?p=304 to http://bhatdental.com/sealants/
+22:33:40	Error: 	"Error when decompressing" (-1) at link bhatdental.com/sealants/. (from bhatdental.com/sealants/)
+22:33:40	Warning: 	Moved Permanently for bhatdental.com/?p=308
+22:33:40	Warning: 	File has moved from bhatdental.com/?p=308 to http://bhatdental.com/fillings/
+22:33:40	Error: 	"Error when decompressing" (-1) at link bhatdental.com/fillings/. (from bhatdental.com/fillings/)
+22:33:40	Warning: 	Moved Permanently for bhatdental.com/?p=260
+22:33:40	Warning: 	File has moved from bhatdental.com/?p=260 to http://bhatdental.com/keep-your-teeth-beautiful-with-these-easy-tips/
+22:33:40	Error: 	"Error when decompressing" (-1) at link bhatdental.com/keep-your-teeth-beautiful-with-these-easy-tips/. (from bhatdental.com/keep-your-teeth-beautiful-with-these-easy-tips/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=263
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=263 to http://bhatdental.com/4-tooth-brushing-mistakes-what-youre-doing-wrong-while-you-brush/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/4-tooth-brushing-mistakes-what-youre-doing-wrong-while-you-brush/. (from bhatdental.com/4-tooth-brushing-mistakes-what-youre-doing-wrong-while-you-brush/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=266
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=266 to http://bhatdental.com/top-five-reasons-to-smile/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/top-five-reasons-to-smile/. (from bhatdental.com/top-five-reasons-to-smile/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=269
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=269 to http://bhatdental.com/braces-dont-have-to-be-a-burden/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/braces-dont-have-to-be-a-burden/. (from bhatdental.com/braces-dont-have-to-be-a-burden/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=272
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=272 to http://bhatdental.com/lets-get-straight-into-the-discussion-surrounding-braces-and-invisalign/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/lets-get-straight-into-the-discussion-surrounding-braces-and-invisalign/. (from bhatdental.com/lets-get-straight-into-the-discussion-surrounding-braces-and-invisalign/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=281
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=281 to http://bhatdental.com/my-tooth-is-infectedwhat-can-i-do/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/my-tooth-is-infectedwhat-can-i-do/. (from bhatdental.com/my-tooth-is-infectedwhat-can-i-do/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=278
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=278 to http://bhatdental.com/wisdom-teeth-whats-the-hassle/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/wisdom-teeth-whats-the-hassle/. (from bhatdental.com/wisdom-teeth-whats-the-hassle/)
+22:33:45	Warning: 	Moved Permanently for bhatdental.com/?p=275
+22:33:45	Warning: 	File has moved from bhatdental.com/?p=275 to http://bhatdental.com/mini-dental-implants-and-traditional-dental-implants-whats-the-difference/
+22:33:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/mini-dental-implants-and-traditional-dental-implants-whats-the-difference/. (from bhatdental.com/mini-dental-implants-and-traditional-dental-implants-whats-the-difference/)
+22:33:51	Warning: 	Moved Permanently for bhatdental.com/?p=351
+22:33:51	Warning: 	File has moved from bhatdental.com/?p=351 to http://bhatdental.com/sports-dentistry/
+22:33:51	Error: 	"Error when decompressing" (-1) at link bhatdental.com/sports-dentistry/. (from bhatdental.com/sports-dentistry/)
+22:33:51	Warning: 	Moved Permanently for bhatdental.com/?p=348
+22:33:51	Warning: 	File has moved from bhatdental.com/?p=348 to http://bhatdental.com/thumb-sucking/
+22:33:51	Error: 	"Error when decompressing" (-1) at link bhatdental.com/thumb-sucking/. (from bhatdental.com/thumb-sucking/)
+22:33:51	Warning: 	Moved Permanently for bhatdental.com/?p=311
+22:33:51	Warning: 	File has moved from bhatdental.com/?p=311 to http://bhatdental.com/mouthguards/
+22:33:51	Error: 	"Error when decompressing" (-1) at link bhatdental.com/mouthguards/. (from bhatdental.com/mouthguards/)
+22:35:23	Warning: 	Moved Permanently for bhatdental.com/?p=538
+22:35:23	Warning: 	File has moved from bhatdental.com/?p=538 to http://bhatdental.com/538/
+22:35:23	Error: 	"Error when decompressing" (-1) at link bhatdental.com/538/. (from bhatdental.com/538/)
+22:35:23	Warning: 	Moved Permanently for bhatdental.com/?p=54
+22:35:23	Warning: 	File has moved from bhatdental.com/?p=54 to http://bhatdental.com/gallery/s5/
+22:35:23	Error: 	"Not Found" (404) at link bhatdental.com/author/ (from bhatdental.com/gallery/s5/)
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/s5/. (from bhatdental.com/gallery/s5/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=53
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=53 to http://bhatdental.com/gallery/s4/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/s4/. (from bhatdental.com/gallery/s4/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=52
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=52 to http://bhatdental.com/gallery/s3/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/s3/. (from bhatdental.com/gallery/s3/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=51
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=51 to http://bhatdental.com/gallery/s2/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/s2/. (from bhatdental.com/gallery/s2/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=50
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=50 to http://bhatdental.com/gallery/s1/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/s1/. (from bhatdental.com/gallery/s1/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=48
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=48 to http://bhatdental.com/gallery/4-2/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/4-2/. (from bhatdental.com/gallery/4-2/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=47
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=47 to http://bhatdental.com/gallery/3-2/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/3-2/. (from bhatdental.com/gallery/3-2/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=46
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=46 to http://bhatdental.com/gallery/2-2/
+22:35:31	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/2-2/. (from bhatdental.com/gallery/2-2/)
+22:35:31	Warning: 	Moved Permanently for bhatdental.com/?p=45
+22:35:31	Warning: 	File has moved from bhatdental.com/?p=45 to http://bhatdental.com/gallery/1-2/
+22:35:37	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/1-2/. (from bhatdental.com/gallery/1-2/)
+22:35:37	Warning: 	Moved Permanently for bhatdental.com/?p=49
+22:35:37	Warning: 	File has moved from bhatdental.com/?p=49 to http://bhatdental.com/gallery/5-2/
+22:35:37	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/5-2/. (from bhatdental.com/gallery/5-2/)
+22:35:37	Warning: 	Moved Permanently for bhatdental.com/?p=579
+22:35:37	Warning: 	File has moved from bhatdental.com/?p=579 to http://bhatdental.com/img_2090/
+22:35:44	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2090/. (from bhatdental.com/img_2090/)
+22:35:44	Warning: 	Moved Permanently for bhatdental.com/?p=580
+22:35:44	Warning: 	File has moved from bhatdental.com/?p=580 to http://bhatdental.com/img_2092/
+22:35:44	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2092/. (from bhatdental.com/img_2092/)
+22:35:44	Warning: 	Moved Permanently for bhatdental.com/?p=581
+22:35:44	Warning: 	File has moved from bhatdental.com/?p=581 to http://bhatdental.com/img_2105/
+22:35:44	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2105/. (from bhatdental.com/img_2105/)
+22:35:44	Warning: 	Moved Permanently for bhatdental.com/?p=582
+22:35:44	Warning: 	File has moved from bhatdental.com/?p=582 to http://bhatdental.com/img_2111/
+22:35:44	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2111/. (from bhatdental.com/img_2111/)
+22:35:44	Warning: 	Moved Permanently for bhatdental.com/?p=583
+22:35:44	Warning: 	File has moved from bhatdental.com/?p=583 to http://bhatdental.com/img_2112/
+22:35:44	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2112/. (from bhatdental.com/img_2112/)
+22:35:44	Warning: 	Moved Permanently for bhatdental.com/?p=584
+22:35:44	Warning: 	File has moved from bhatdental.com/?p=584 to http://bhatdental.com/img_2114/
+22:35:48	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2114/. (from bhatdental.com/img_2114/)
+22:35:48	Warning: 	Moved Permanently for bhatdental.com/?p=35
+22:35:48	Warning: 	File has moved from bhatdental.com/?p=35 to http://bhatdental.com/gallery/attachment/1/
+22:35:53	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/attachment/1/. (from bhatdental.com/gallery/attachment/1/)
+22:35:53	Warning: 	Moved Permanently for bhatdental.com/?p=39
+22:35:53	Warning: 	File has moved from bhatdental.com/?p=39 to http://bhatdental.com/gallery/attachment/5/
+22:35:58	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/attachment/5/. (from bhatdental.com/gallery/attachment/5/)
+22:35:58	Warning: 	Moved Permanently for bhatdental.com/?p=577
+22:35:58	Warning: 	File has moved from bhatdental.com/?p=577 to http://bhatdental.com/shiela/
+22:36:04	Error: 	"Error when decompressing" (-1) at link bhatdental.com/shiela/. (from bhatdental.com/shiela/)
+22:36:04	Warning: 	Moved Permanently for bhatdental.com/?p=585
+22:36:04	Warning: 	File has moved from bhatdental.com/?p=585 to http://bhatdental.com/img_2148/
+22:36:11	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_2148/. (from bhatdental.com/img_2148/)
+22:36:11	Warning: 	Moved Permanently for bhatdental.com/?p=36
+22:36:11	Warning: 	File has moved from bhatdental.com/?p=36 to http://bhatdental.com/gallery/attachment/2/
+22:36:17	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/attachment/2/. (from bhatdental.com/gallery/attachment/2/)
+22:36:17	Warning: 	Moved Permanently for bhatdental.com/?p=38
+22:36:17	Warning: 	File has moved from bhatdental.com/?p=38 to http://bhatdental.com/gallery/attachment/4/
+22:36:17	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/attachment/4/. (from bhatdental.com/gallery/attachment/4/)
+22:36:17	Warning: 	Moved Permanently for bhatdental.com/?p=565
+22:36:17	Warning: 	File has moved from bhatdental.com/?p=565 to http://bhatdental.com/new-team3/
+22:36:20	Error: 	"Error when decompressing" (-1) at link bhatdental.com/new-team3/. (from bhatdental.com/new-team3/)
+22:36:20	Warning: 	Moved Permanently for bhatdental.com/?p=605
+22:36:20	Warning: 	File has moved from bhatdental.com/?p=605 to http://bhatdental.com/teamy-300-400/
+22:36:23	Error: 	"Error when decompressing" (-1) at link bhatdental.com/teamy-300-400/. (from bhatdental.com/teamy-300-400/)
+22:36:23	Warning: 	Moved Permanently for bhatdental.com/?p=37
+22:36:23	Warning: 	File has moved from bhatdental.com/?p=37 to http://bhatdental.com/gallery/attachment/3/
+22:36:23	Error: 	"Error when decompressing" (-1) at link bhatdental.com/gallery/attachment/3/. (from bhatdental.com/gallery/attachment/3/)
+22:36:23	Warning: 	Moved Permanently for bhatdental.com/?p=564
+22:36:23	Warning: 	File has moved from bhatdental.com/?p=564 to http://bhatdental.com/new-team2/
+22:36:33	Error: 	"Not Found" (404) at link bhatdental.com/new-team2/. (from bhatdental.com/new-team2/)
+22:36:33	Warning: 	Moved Permanently for bhatdental.com/?p=607
+22:36:33	Warning: 	File has moved from bhatdental.com/?p=607 to http://bhatdental.com/img_7231-3/
+22:36:35	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_7231-3/. (from bhatdental.com/img_7231-3/)
+22:36:35	Warning: 	Moved Permanently for bhatdental.com/?p=563
+22:36:35	Warning: 	File has moved from bhatdental.com/?p=563 to http://bhatdental.com/new-team1/
+22:36:41	Error: 	"Error when decompressing" (-1) at link bhatdental.com/new-team1/. (from bhatdental.com/new-team1/)
+22:36:41	Warning: 	Moved Permanently for bhatdental.com/?p=609
+22:36:41	Warning: 	File has moved from bhatdental.com/?p=609 to http://bhatdental.com/christina-2/
+22:36:43	Error: 	"Error when decompressing" (-1) at link bhatdental.com/christina-2/. (from bhatdental.com/christina-2/)
+22:36:43	Warning: 	Moved Permanently for bhatdental.com/?p=562
+22:36:43	Warning: 	File has moved from bhatdental.com/?p=562 to http://bhatdental.com/new-team/
+22:36:46	Error: 	"Error when decompressing" (-1) at link bhatdental.com/new-team/. (from bhatdental.com/new-team/)
+22:36:46	Warning: 	Moved Permanently for bhatdental.com/?p=611
+22:36:46	Warning: 	File has moved from bhatdental.com/?p=611 to http://bhatdental.com/britany-2/
+22:36:48	Error: 	"Error when decompressing" (-1) at link bhatdental.com/britany-2/. (from bhatdental.com/britany-2/)
+22:36:48	Warning: 	Moved Permanently for bhatdental.com/?p=555
+22:36:48	Warning: 	File has moved from bhatdental.com/?p=555 to http://bhatdental.com/testimonial_2/
+22:36:51	Error: 	"Error when decompressing" (-1) at link bhatdental.com/testimonial_2/. (from bhatdental.com/testimonial_2/)
+22:36:51	Warning: 	Moved Permanently for bhatdental.com/?p=613
+22:36:51	Warning: 	File has moved from bhatdental.com/?p=613 to http://bhatdental.com/laurel-3/
+22:36:54	Error: 	"Error when decompressing" (-1) at link bhatdental.com/laurel-3/. (from bhatdental.com/laurel-3/)
+22:36:54	Warning: 	Moved Permanently for bhatdental.com/?p=544
+22:36:54	Warning: 	File has moved from bhatdental.com/?p=544 to http://bhatdental.com/thumbs-up/
+22:36:56	Error: 	"Error when decompressing" (-1) at link bhatdental.com/thumbs-up/. (from bhatdental.com/thumbs-up/)
+22:36:56	Warning: 	Moved Permanently for bhatdental.com/?p=637
+22:36:56	Warning: 	File has moved from bhatdental.com/?p=637 to http://bhatdental.com/img_5641/
+22:37:00	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_5641/. (from bhatdental.com/img_5641/)
+22:37:00	Warning: 	Moved Permanently for bhatdental.com/?p=535
+22:37:00	Warning: 	File has moved from bhatdental.com/?p=535 to http://bhatdental.com/laurel-2/
+22:37:16	Error: 	"Error when decompressing" (-1) at link bhatdental.com/laurel-2/. (from bhatdental.com/laurel-2/)
+22:37:16	Warning: 	Moved Permanently for bhatdental.com/?p=27
+22:37:16	Warning: 	File has moved from bhatdental.com/?p=27 to http://bhatdental.com/thumb1/
+22:37:21	Error: 	"Error when decompressing" (-1) at link bhatdental.com/thumb1/. (from bhatdental.com/thumb1/)
+22:37:21	Warning: 	Moved Permanently for bhatdental.com/?p=534
+22:37:21	Warning: 	File has moved from bhatdental.com/?p=534 to http://bhatdental.com/christina/
+22:37:34	Error: 	"Error when decompressing" (-1) at link bhatdental.com/christina/. (from bhatdental.com/christina/)
+22:37:34	Warning: 	Moved Permanently for bhatdental.com/?p=28
+22:37:34	Warning: 	File has moved from bhatdental.com/?p=28 to http://bhatdental.com/thumb2/
+22:37:40	Error: 	"Error when decompressing" (-1) at link bhatdental.com/thumb2/. (from bhatdental.com/thumb2/)
+22:37:40	Warning: 	Moved Permanently for bhatdental.com/?p=533
+22:37:40	Warning: 	File has moved from bhatdental.com/?p=533 to http://bhatdental.com/britany/
+22:45:49	Error: 	"Not Found" (404) at link bhatdental.com/britany/. (from bhatdental.com/britany/)
+22:45:49	Warning: 	Moved Permanently for bhatdental.com/?p=29
+22:45:49	Warning: 	File has moved from bhatdental.com/?p=29 to http://bhatdental.com/thumb3/
+22:45:52	Error: 	"Error when decompressing" (-1) at link bhatdental.com/thumb3/. (from bhatdental.com/thumb3/)
+22:45:52	Warning: 	Moved Permanently for bhatdental.com/?p=532
+22:45:52	Warning: 	File has moved from bhatdental.com/?p=532 to http://bhatdental.com/img_7193/
+22:45:55	Error: 	"Not Found" (404) at link bhatdental.com/img_7193/. (from bhatdental.com/img_7193/)
+22:45:55	Warning: 	Moved Permanently for bhatdental.com/?p=65
+22:45:55	Warning: 	File has moved from bhatdental.com/?p=65 to http://bhatdental.com/bethanygoins/
+22:46:01	Error: 	"Error when decompressing" (-1) at link bhatdental.com/bethanygoins/. (from bhatdental.com/bethanygoins/)
+22:46:01	Warning: 	Moved Permanently for bhatdental.com/?p=515
+22:46:01	Warning: 	File has moved from bhatdental.com/?p=515 to http://bhatdental.com/img_7226-3/
+22:53:38	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_7226-3/. (from bhatdental.com/img_7226-3/)
+22:53:38	Warning: 	Moved Permanently for bhatdental.com/?p=66
+22:53:38	Warning: 	File has moved from bhatdental.com/?p=66 to http://bhatdental.com/brittany/
+22:53:41	Error: 	"Error when decompressing" (-1) at link bhatdental.com/brittany/. (from bhatdental.com/brittany/)
+22:53:41	Warning: 	Moved Permanently for bhatdental.com/?p=514
+22:53:41	Warning: 	File has moved from bhatdental.com/?p=514 to http://bhatdental.com/img_7231-2/
+22:53:45	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_7231-2/. (from bhatdental.com/img_7231-2/)
+22:53:45	Warning: 	Moved Permanently for bhatdental.com/?p=67
+22:53:45	Warning: 	File has moved from bhatdental.com/?p=67 to http://bhatdental.com/christanelson/
+22:53:48	Error: 	"Error when decompressing" (-1) at link bhatdental.com/christanelson/. (from bhatdental.com/christanelson/)
+22:53:48	Warning: 	Moved Permanently for bhatdental.com/?p=513
+22:53:48	Warning: 	File has moved from bhatdental.com/?p=513 to http://bhatdental.com/img_7226-2/
+22:54:47	Error: 	"Cancelled by User" (-1) at link bhatdental.com/wp-content/uploads/2015/01/IMG_7231.jpg (from bhatdental.com/img_7226-2/)
+22:54:47	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_7226-2/. (from bhatdental.com/img_7226-2/)
+22:54:47	Warning: 	Moved Permanently for bhatdental.com/?p=68
+22:54:47	Warning: 	File has moved from bhatdental.com/?p=68 to http://bhatdental.com/corettacole/
+22:54:50	Error: 	"Error when decompressing" (-1) at link bhatdental.com/corettacole/. (from bhatdental.com/corettacole/)
+22:54:52	Warning: 	Moved Permanently for bhatdental.com/?p=511
+22:54:52	Warning: 	File has moved from bhatdental.com/?p=511 to http://bhatdental.com/img_7231/
+22:54:55	Error: 	"Cancelled by User" (-1) at link bhatdental.com/wp-content/uploads/2015/01/IMG_7226.jpg (from bhatdental.com/img_7231/)
+22:54:55	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_7231/. (from bhatdental.com/img_7231/)
+22:54:55	Warning: 	Moved Permanently for bhatdental.com/?p=69
+22:54:55	Warning: 	File has moved from bhatdental.com/?p=69 to http://bhatdental.com/joahflloyd/
+22:54:58	Error: 	"Error when decompressing" (-1) at link bhatdental.com/joahflloyd/. (from bhatdental.com/joahflloyd/)
+22:54:58	Error: 	Unable to save file C:/Temp/a1/bhatdental/bhatdental.com/joahflloyd/: No such file or directory
+22:54:58	Warning: 	Moved Permanently for bhatdental.com/?p=510
+22:54:58	Warning: 	File has moved from bhatdental.com/?p=510 to http://bhatdental.com/img_7226/
+22:54:59	Error: 	"Error when decompressing" (-1) at link bhatdental.com/img_7226/. (from bhatdental.com/img_7226/)
+22:54:59	Warning: 	Moved Permanently for bhatdental.com/?p=70
+22:54:59	Warning: 	File has moved from bhatdental.com/?p=70 to http://bhatdental.com/laurel/
+22:54:59	Error: 	"Cancelled by User" (-1) at link bhatdental.com/meghahegde/ (from bhatdental.com/laurel/)
+22:54:59	Error: 	"Error when decompressing" (-1) at link bhatdental.com/laurel/. (from bhatdental.com/laurel/)
+22:54:59	Error: 	"Cancelled by User" (-1) at link bhatdental.com/feed/?attachment_id=436 (from bhatdental.com/testimony-2/)
+22:54:59	Error: 	"Cancelled by User" (-1) at link bhatdental.com/?p=436 (from bhatdental.com/testimony-2/)
+
+HTTrack Website Copier/3.49-1 mirror complete in 27 minutes 47 seconds : 912 links scanned, 701 files written (36094380 bytes overall) [36015200 bytes received at 21604 bytes/sec], 3047440 bytes transferred using HTTP compression in 200 files, ratio 28%, 7.6 requests per connection
+(109 errors, 205 warnings, 0 messages)
